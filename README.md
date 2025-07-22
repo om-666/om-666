@@ -46,7 +46,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🛰️ [Krishi Sahayata](https://krishi-shayata-staging.vercel.app/login) | Multilingual crop insurance platform with AI chatbot, Aadhar tracking, TTS, Razorpay | React, Node.js, MongoDB, Tailwind |
-| 🔐 [SSO NPM Package](https://www.npmjs.com/package/sso_npm_package1) | Seamless login NPM integration for Digital Public Goods | Node.js, JWT, Auth |
+| 🔐 [SSO NPM Package](https://www.npmjs.com/package/sso-sunbird-helper) | Seamless login NPM integration for Digital Public Goods | Node.js, JWT, Auth |
 | 🧠 [C4GT Contributions](https://c4gt-milestones.vercel.app/docs/2023/Sunbird%20ED/Implement%20Independent%20SSO%20Flow%20on%20NPM%20Package/) | Contributions to Sunbird-Ed, mentored by IITians | Open Source, GovTech |
 | 🌍 [Shopify Translator Plugin](#) | React Remix plugin to translate entire websites | GraphQL, MongoDB, i18n |
 
