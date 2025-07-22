@@ -53,8 +53,13 @@
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  </a>
+  <img
+    src="https://unpkg.com/aws-icons@latest/icons/architecture-service/AmazonEC2.svg"
+    alt="AWS"
+    width="40" height="40"
+  />
+</a>
+
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
