@@ -12,12 +12,15 @@
 
 ---
 
-### 🔭 Currently Working On
+🔭 Experience & Projects
 
-- 🏢 **Product Engineer Intern** at **Reverie Language Technologies (Jio)**
-- 🚀 Building multilingual Shopify plugins using **React**, **Remix**, **GraphQL**, **MongoDB**
-- 💡 Final year project: **Krishi Sahayata** – multilingual AI crop insurance platform with Aadhar tracking & weather APIs
+🏢 Former SDE Intern at Reverie Language Technologies (Jio)
 
+🏢 Former Open Source Contributor Intern at Samagra Governance
+
+🚀 Built multilingual Shopify plugins using React, Remix, GraphQL, and MongoDB
+
+💡 Final Year Project: Krishi Sahayata – a multilingual AI-powered crop insurance platform with Aadhaar-based tracking & weather APIs
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -65,13 +68,19 @@
 
 ---
 
-### 🧑‍💻 About Me
+🧑‍💻 About Me
 
-- 💼 Final-year CSE student at SOA University
-- 👨‍🔬 Worked at **Reverie (Jio)** & **Samagra Governance** as Product Engineer & Open Source Contributor
-- 🥇 Finalist – **Smart Odisha Hackathon**, **SOA Proxima**, Top 100 in **C4GT DPG Dialogues**
-- 🌐 Active on [LeetCode](https://leetcode.com/), [Hackerrank](https://www.hackerrank.com/omtanmaya2004), and GitHub
+🎓 CSE Graduate from SOA University (ITER)
 
+💼 Experience:
+
+Product Engineer Intern at Reverie (Jio) – 10 months
+
+Open Source Contributor Intern at Samagra Governance – 3 months
+
+🏆 Achievements: Finalist – Smart Odisha Hackathon, SOA Proxima | Top 100 – C4GT DPG Dialogues
+
+🌐 Active on LeetCode, HackerRank, and GitHub
 ---
 
 ### 📫 Connect with Me
